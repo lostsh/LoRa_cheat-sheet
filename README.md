@@ -1,5 +1,3 @@
-# lora-fun
-
 # Getting Started
 Petite aide mémoire, allègrement basé sur la super doc de [meshtastic](https://meshtastic.org/docs/introduction/).
 
